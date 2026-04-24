@@ -1,0 +1,31 @@
+# waypoints.yaml
+# Configuracion de waypoints para el Puzzlebot
+# Parte 1: cuadrado 2x2
+# Parte 2: trayectoria arbitraria (minimo 3 puntos)
+
+part1:
+  waypoints:
+    - label: "esquina_1"
+      x: 2.0
+      y: 0.0
+    - label: "esquina_2"
+      x: 2.0
+      y: 2.0
+    - label: "esquina_3"
+      x: 0.0
+      y: 2.0
+    - label: "origen"
+      x: 0.0
+      y: 0.0
+
+part2:
+  waypoints:
+    - label: "WP1"
+      x: 1.0
+      y: 0.5
+    - label: "WP2"
+      x: 1.0
+      y: 1.5
+    - label: "WP3"
+      x: 0.0
+      y: 1.0
