@@ -1,4 +1,4 @@
-# 🤖 Puzzlebot PID Controller — Mini Challenge 2
+# 🤖 Puzzlebot PID Controller — Mini Challenge week 8
 
 Control de lazo cerrado PI para navegación autónoma del robot diferencial Puzzlebot en ROS2 Humble. El robot sigue una trayectoria cuadrada de 2x2 metros de forma autónoma usando odometría de encoders y un controlador PI sintonizado con identificación de sistema en MATLAB.
 
